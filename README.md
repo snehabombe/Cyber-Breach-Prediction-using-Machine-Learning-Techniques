@@ -2,6 +2,7 @@
 cyber breach prediction (url classsification) using machine learning techniques.
 
 Introduction
+
 The need to protect our digital assets from an ongoing assault of cyber threats has risen to unprecedented levels in today's digitally interconnected society. Our study orchestrates an effective combination of cutting-edge machine learning approaches, including the Random Forest algorithm, the Naive Bayes classifier, the k-Nearest Neighbors (k-NN) model, and the XGBoost algorithm, to tackle this constantly shifting difficulty head-on. Our project now can analyse a broad range of cybersecurity data sources to improve predicted accuracy for proactive threat mitigation thanks to this deliberate amalgamation. This project's fundamental value is user-friendliness, with an easy interface that streamlines data input. It provides an easy-to-use interface for consumers to engage with, making data entry simple. Furthermore, it carefully examines and displays the accuracy of various machine-learning models. This project aims to quantitatively examine each model's accuracy and computational efficiency, revealing light on their unique features and decisions. By leveraging these models' remarkable predictive powers, our effort promotes improving cybersecurity policies, protecting critical systems, and assuring a secure digital future.
 
 Research Methodology
